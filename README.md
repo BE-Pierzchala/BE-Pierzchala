@@ -1,12 +1,12 @@
 ![Header image](https://raw.githubusercontent.com/BE-Pierzchala/BE-Pierzchala/main/Assets/background.png)
 
-## Hi! 👋🏻
+### Hi! 👋🏻
 
 I'm someone who's passionate about **understanding the world** around us and enjoys **writing code**.
 
 I primarily work in ***nix** operating systems and **python**, but I know a range of other languages including **C++** and **Java**.
 
-I love to learn and share my knowledge. Here you can find some of my projects I did, either because I found them fun or wanted to learn a new skill.
+I love to learn and share my knowledge. Here you can find some of my projects I did, either because I found them fun or wanted to learn and test a new skill.
 
 If you find value in something I have created do not hesitate to contact me!
 
