@@ -1,16 +1,15 @@
-### Hi there 👋
+![Header image](https://raw.githubusercontent.com/BE-Pierzchala/BE-Pierzchala/main/Assets/background.png)
 
-<!--
-**BE-Pierzchala/BE-Pierzchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi! 👋🏻
 
-Here are some ideas to get you started:
+I'm someone who's passionate about **understanding the world** around us and enjoys **writing code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily work in **Mac OS** and **python**, but I know a range of other languages including **C++** and **Java**.
+
+I love to learn and share my knowledge. Here you can find some of my projects I did, either because I found them fun or wanted to learn a new skill.
+
+If you find value in something I have created do not hesitate to contact me!
+
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/be-pierzchala/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartek.e.pierzchala@gmail.com)
+
