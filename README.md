@@ -13,3 +13,4 @@ If you find value in something I have created do not hesitate to contact me!
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/be-pierzchala/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartek.e.pierzchala@gmail.com)
 
+*Profile picture created by Miriam Spalinska, find her on [instagram](https://www.instagram.com/miriamspalinski/).*
